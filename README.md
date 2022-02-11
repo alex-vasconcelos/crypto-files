@@ -2,6 +2,7 @@
 
 ## Description:
 This is the AWS Lambda deployment package + the file that contains the sql functions that interact with the sqlite database.
+The manager to view investments is contained in another repository.
 
 ### Update.py:
 This file contains the main function (lambda_handler) that's run in Lambda.
